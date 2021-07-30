@@ -1,0 +1,25 @@
+.root{
+    -fx-font-size: 18;
+
+}
+
+.button{
+    -fx-background-color: #04859D;
+}
+
+.button:hover{
+    -fx-background-color: #FFB000;
+    -fx-text-fill: #061F70;
+    -fx-font-weight: bold;
+    -fx-font-size: 19;
+}
+
+.text-area{
+    -fx-control-inner-background: #5FBDCE;
+    -fx-text-fill: #061F70;
+}
+
+.text-field{
+    -fx-background-color: #FFB773;
+    -fx-background-size: 80% 10%;
+}
